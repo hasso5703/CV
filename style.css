@@ -1,0 +1,218 @@
+body
+{
+	font-family : scamper, Arial, sans-serif;
+	line-height : 1.5em;
+	margin: 0;
+	ba
+}
+header 
+{
+	height: 400px;
+	background-color: #87CEEB;
+	padding-top: 1px;
+	text-align: center;
+	position: relative;
+}
+
+header h1
+{
+	color: white;
+	font-size: 3em;
+	padding: 10px;
+}
+
+header h2
+{
+	padding: 10px;
+	padding-bottom: 50px;
+	border-bottom: 3px solid black;
+}
+
+header nav ul
+{
+	display: flex;
+	background-color: #87CEEB;
+}
+
+header nav ul li
+{
+	list-style-type: none;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #87CEEB;
+
+}
+
+header nav 
+{
+	position: absolute;
+	left: 1px;
+	bottom: 5px;
+	width: 80%;
+	background-color: #87CEEB;
+}
+
+header ul li a 
+{
+	padding: 10px;
+	background-color: #87CEEB;
+}
+
+header ul li a img 
+{
+	background-color: #6495ED;
+	padding: 10px;
+	border-radius: 30%;
+}
+header ul li a:hover 
+{
+background-color: #87CEEB;
+}
+
+
+#divimg
+{
+	height: 300px;
+	width: 300px;
+	position: absolute;
+	top: 35px;
+	right: 50px;
+	border: 5px solid black;
+	border-radius: 50%;
+}
+
+#divimg img {
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
+}
+
+
+h2 
+{
+	border-bottom: 3px solid grey;
+}
+
+
+
+
+.fond2{
+	background-color: #dca57c;
+	width: 1700px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+.fond1 {
+	background-color: black;
+	width: 1700px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	
+}
+footer {
+	background-color: #7AA4BA;
+	width: 1700px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	color: white; 
+	
+}
+.fond1 div {
+	
+	display: flex;
+	padding: 15px;
+	
+}
+.fond2 div {
+	
+	display: flex;
+	padding: 15px;
+}
+#art1{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 1px 6px 6px black;
+	padding: 10px;
+	background-color: white;
+}
+#art2{
+	width: 35%;
+	
+	box-shadow: 1px 6px 6px black;
+	margin-left: 10px;
+	padding: 10px;
+	background-color: white;
+	height: 500px;
+
+
+}
+#art3 {
+	background-color: white;
+	padding: 10px;
+	width: 30%;
+	box-shadow: 1px 6px 6px black;
+	margin-left: 10%;
+}
+#art4{
+	width: 35%;
+	margin-left: 12.5%;
+	
+	box-shadow: 1px 6px 6px black;
+	padding: 10px;
+	background-color: white;
+}
+
+#art5{
+
+	width: 35%;
+	
+	box-shadow: 1px 6px 6px black;
+	margin-left: 10px;
+	padding: 10px;
+	background-color: white;
+	}
+
+.tiers figure {
+	background-color: black;
+
+}
+figure {
+	color: white;
+}
+
+figure img {
+	background-position: top center;
+}
+
+.retour {
+	background-color: black;
+	height: 60px;
+	width: 60px;
+	position: absolute;
+	right: 5px;
+	bottom: 5px;
+}
+
+.fond1 footer {
+	width: 100px;
+}
+
+a {
+	color: white;
+}
+a:hover {
+	color: black;
+	background-color: #EDE4C2;
+}
+h2 {
+	border-bottom: 3px solid blue;
+}
+
+article {
+	text-align: center;
+}
